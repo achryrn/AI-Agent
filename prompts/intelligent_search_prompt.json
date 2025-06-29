@@ -1,0 +1,8 @@
+{
+  "tool_name": "intelligent_search",
+  "description": "Performs intelligent web search with iterative crawling until AI determines sufficient information is gathered",
+  "field_prompts": {
+    "query": "Smart prompt for query field. Customize this based on your tool's needs.",
+    "max_depth": "Smart prompt for max_depth field. Customize this based on your tool's needs."
+  }
+}

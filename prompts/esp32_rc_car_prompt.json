@@ -1,0 +1,5 @@
+{
+  "tool_name": "esp32_rc_car",
+  "description": "Control an ESP32-based RC car through WiFi. Send movement commands (forward, backward, left, right), adjust speed/power, change gears, apply handbrake, or stop the vehicle. The car supports variable speed control (0-255 PWM), 4-speed gears, and selective stopping (motion-only or steering-only). Perfect for remote vehicle control, robotics projects, or automated driving scenarios.",
+  "field_prompts": {}
+}
