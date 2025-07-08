@@ -1,0 +1,7 @@
+{
+  "tool_name": "chat",
+  "description": "Replies conversationally to the user.",
+  "field_prompts": {
+    "response": "Smart prompt for response field. Customize this based on your tool's needs."
+  }
+}

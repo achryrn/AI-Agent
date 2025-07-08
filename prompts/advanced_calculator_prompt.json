@@ -1,0 +1,7 @@
+{
+  "tool_name": "advanced_calculator",
+  "description": "Solves complex math expressions (supports algebra, roots, powers, fractions, etc).",
+  "field_prompts": {
+    "expression": "Smart prompt for expression field. Customize this based on your tool's needs."
+  }
+}
